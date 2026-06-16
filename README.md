@@ -2,7 +2,7 @@
 
 ## Module
 
-7006SCN – Big Data Tools and Techniques
+7006SCN – Machine Learning And Big Data
 
 ## Student Information
 
