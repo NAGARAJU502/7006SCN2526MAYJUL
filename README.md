@@ -85,18 +85,62 @@ Provides insights into passenger tipping behaviour.
 # Repository Structure
 
 ```text
+
 7006SCN_N_16549283/
 │
-├── notebooks/
-│   ├── Task1.ipynb      # Problem & Dataset Description
-│   ├── Task2.ipynb      # Data Engineering
-│   ├── Task3.ipynb      # ML Model Portfolio
-│   ├── Task4.ipynb      # Distributed Computing
-│   ├── Task5.ipynb      # Model Evaluation & Stability
-│   └── Task6.ipynb      # Tableau Storytelling
+├── data/
+│   └── README.md                         # Dataset download instructions
 │
-└── README.md
-````
+├── models/
+│   ├── README.md                         # Model outputs description
+│   ├── NYC_Taxi_Tableau_Data.xlsx
+│   ├── feature_importance.csv
+│   ├── model_metrics.csv
+│   ├── scalability_metrics.csv
+│   └── stability_metrics.csv
+│
+├── notebooks/
+│   ├── Task1.ipynb                       # Problem & Dataset Description
+│   ├── Task2.ipynb                       # Data Engineering
+│   ├── Task3.ipynb                       # ML Model Portfolio
+│   ├── Task4.ipynb                       # Distributed Computing
+│   ├── Task5.ipynb                       # Model Evaluation & Stability
+│   └── Task6.ipynb                       # Tableau Storytelling
+│
+├── outputs/
+│   ├── Dashboard 1 (Data Quality).twb
+│   ├── Dashboard 2 (Model metrics).twb
+│   ├── Dashboard 3 (Feature importance).twb
+│   ├── Dashboard 4 (Scalability Analysis).twb
+│   └── README.md
+│
+├── task1-dataset/
+│   ├── README.md
+│   └── Task1.ipynb
+│
+├── task2-engineering/
+│   ├── README.md
+│   └── Task2.ipynb
+│
+├── task3-models/
+│   ├── README.md
+│   └── Task3.ipynb
+│
+├── task4-distributed/
+│   ├── README.md
+│   └── Task4.ipynb
+│
+├── task5-evaluation/
+│   ├── README.md
+│   └── Task5.ipynb
+│
+├── task6-tableau/
+│   ├── README.md
+│   └── Task6.ipynb
+│
+└── README.md                             # Main project documentation
+
+```
 
 # Running Order
 
