@@ -1,13 +1,17 @@
-````markdown
+
 # 7006SCN — Machine Learning and Big Data
 
 ### Coursework MAYJUL · NYC Yellow Taxi High-Tip Prediction
 
 **Module:** 7006SCN Machine Learning and Big Data · Coventry University
 
+**Module Leaders:** 
+
 **Student Name:** NAGARAJU
 
 **Student ID:** 16549283
+
+**Submission**:
 
 ---
 
@@ -24,6 +28,7 @@ The aim of this project is to predict whether a New York City taxi trip will gen
 | Dataset | NYC Yellow Taxi Trip Records |
 | Source | NYC Taxi and Limousine Commission (TLC) |
 | Official Dataset Page | https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page |
+| Period | January 2024 – April 2024 |
 | Records | 13,069,067 |
 | Columns | 19 |
 | Type | Big Data Classification |
@@ -92,8 +97,6 @@ Provides insights into passenger tipping behaviour.
 │
 └── README.md
 ````
-
----
 
 # Running Order
 
