@@ -1,0 +1,4 @@
+Metric,Execution_Time
+Without Cache,4.063378572463989
+With Cache,1.559370994567871
+Repartitioned,4.612051486968994
